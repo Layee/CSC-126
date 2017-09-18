@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459973475 source:c:\users\abraham\desktop\csc_126\testing\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
